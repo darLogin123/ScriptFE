@@ -14,8 +14,8 @@ jump.BackgroundTransparency = 0
 local jumpscareSound = Instance.new("Sound", workspace)
 jumpscareSound.Name = "JumpscareSound"
 jumpscareSound.Volume = 999
-jumpscareSound.Pitch = 1
-jumpscareSound.SoundId = "rbxassetid://9067444671"
+jumpscareSound.Pitch = 0.2
+jumpscareSound.SoundId = "rbxassetid://rbxassetid://5547866547"
 jumpscareSound:play()
 wait(5.7)
 jump.ImageTransparency = 0.1
